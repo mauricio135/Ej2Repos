@@ -8,6 +8,7 @@ namespace Program
         {
             Console.WriteLine("Mauricio Gómez");
             Console.WriteLine("Nahuel Costa");
+            Console.WriteLine("Francisco Ibañez");
         }
     }
 }
